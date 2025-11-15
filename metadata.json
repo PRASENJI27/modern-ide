@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Modern IDE",
+  "description": "A minimalist, modern online IDE with a black theme, powered by a Gemini AI agent to help build, debug, and understand code.",
+  "requestFramePermissions": []
+}
